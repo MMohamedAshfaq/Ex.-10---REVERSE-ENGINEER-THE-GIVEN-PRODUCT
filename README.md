@@ -32,11 +32,17 @@
 
 ## Input:
 
+
 ### Output:
+![unit 4 empd](https://github.com/user-attachments/assets/76254fef-305e-4167-9b35-9ee8609b4e0d)
+![empd](https://github.com/user-attachments/assets/0b6b27f7-5863-49a9-8328-59a3fe8f6914)
+![empd 4](https://github.com/user-attachments/assets/f044cbd6-545f-4fec-aa00-ac24b36a85b9)
 
 
-### Name:
-### Register Number:
+
+
+### Name:M Mohamed Ashfaq
+### Register Number:24001077
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
